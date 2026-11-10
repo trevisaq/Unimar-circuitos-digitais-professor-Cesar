@@ -1,0 +1,10 @@
+Os arquivos já estão enumerados com a ordem do primeiro número antes do nome do arquivo. Ou seja, para executar, o proprio logsin vai solicitar a abertura dos demais arquivos. Comece pelo:
+
+1 - "1_decodificador-7-seg"
+
+e siga importando / abrindo os...
+
+2 - "2_decifrador-completo"
+3 - "3_contador-up-down-4bits"
+
+[O TERCEIRO ARQUIVO PODE SER QUE O LOGSIN TRAVE NA HORA DE EXECUTAR, É NORMAL] 
